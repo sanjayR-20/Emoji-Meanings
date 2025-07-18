@@ -1,0 +1,19 @@
+{
+  "name": "emoji-meanings",
+  "version": "1.0.0",
+  "description": "A responsive web app to explore emoji meanings",
+  "scripts": {
+    "start": "parcel serve ./public/index.html --open",
+    "build": "parcel build ./public/index.html"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "prop-types": "^15.8.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.0",
+    "@parcel/transformer-js": "^2.8.0",
+    "process": "^0.11.10"
+  }
+}
