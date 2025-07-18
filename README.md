@@ -16,6 +16,6 @@ A responsive, accessible React web app to explore emoji meanings with a search b
 - Optimized for CodeSandbox and production-ready with PropTypes.
 
 ## Demo
-- [Live Demo](https://codesandbox.io/s/emoji-meanings-<your-sandbox-id>) *(Replace with your CodeSandbox URL)*
+- [Live Demo](https://codesandbox.io/p/sandbox/emojiii-w55cfx)
 
 ## File Structure
